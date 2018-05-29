@@ -1,0 +1,89 @@
+<style>
+element {
+
+}
+.menu-link-about {
+
+    right: 60px;
+
+}
+.menu-link {
+
+    font-size: 0;
+    height: 30px;
+    position: fixed;
+    top: 60px;
+    width: 30px;
+    z-index: 5;
+
+}
+a {
+
+    color: inherit;
+    text-decoration: none;
+
+}
+[tabindex], a, area, button, input, label, select, textarea {
+
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+
+}
+* {
+
+    background-repeat: no-repeat;
+    
+
+
+}
+*, ::after, ::before {
+
+    border-style: solid;
+    border-width: 0;
+
+}
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+* {
+
+    font-size: inherit;
+    line-height: inherit;
+
+}
+*, ::after, ::before {
+
+    box-sizing: inherit;
+
+}
+nav ol, nav ul {
+
+    list-style: none;
+
+}
+element {
+
+    color: black;
+
+}
+.menu {
+
+    color: black;
+
+}
+.root {
+
+    color: black;
+    cursor: default;
+    font: 100%/1.5 sans-serif;
+        font-size: 100%;
+        line-height: 1.5;
+
+}
+
+</style>
+
+
